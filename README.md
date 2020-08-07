@@ -1,6 +1,6 @@
 # Workout Tracker - NoSQL
 
-Task is to create a workout tracker that will utilize a Mongo database with a Mongoose schema and handle routes with Express.
+A workout tracker that will utilize a Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
 
