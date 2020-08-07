@@ -1,4 +1,4 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Workout Tracker - NoSQL
 
 Task is to create a workout tracker that will utilize a Mongo database with a Mongoose schema and handle routes with Express.
 
@@ -10,7 +10,7 @@ Task is to create a workout tracker that will utilize a Mongo database with a Mo
 
 A consumer will reach their fitness goals quicker when they track their workout progress.
 
-## Criteria
+## Specifics
 
 When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
 
@@ -21,3 +21,7 @@ The user should be able to:
   * Add new exercises to a new workout plan.
 
   * View multiple the combined weight of multiple exercises on the `stats` page.
+
+## Link to Deployed Heroku App
+
+https://workout-tracker-mongo.herokuapp.com/
